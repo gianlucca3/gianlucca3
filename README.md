@@ -17,6 +17,3 @@
    <img align="center" alt="Gian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Js-Gian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </div>
-<div><br>
-<img align="center" alt="Js-Gian" height="200" width="1000"  src="https://user-images.githubusercontent.com/89242046/132127321-47a3582d-5aa9-4919-af24-9f554d5f585a.gif">
-</br></div>
