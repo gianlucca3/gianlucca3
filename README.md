@@ -1,4 +1,4 @@
-## Olá eu sou o Gian Lucca 🤙
+## Olá eu sou o Gian Viana🤙
 
 - 🔭 Atualmente trabalho na área de Segurança Privada
 - 🌱 Cursando Ciências da Computação e iniciando os estudos em JavaScript
